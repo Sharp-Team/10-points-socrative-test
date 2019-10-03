@@ -1,0 +1,174 @@
+{
+  "last_updated": 1569996873,
+  "name": "World Facts Quiz",
+  "soc_number": "42182130",
+  "created_by": 3858089,
+  "questions": [
+    {
+      "question_text": "What is the world&#039;s longest river?",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "The Yangtze River",
+          "is_correct": false,
+          "order": 5,
+          "id": 1049339616
+        },
+        {
+          "text": "<p>The Danube River</p>",
+          "is_correct": false,
+          "order": 3,
+          "id": 1049339612
+        },
+        {
+          "text": "<p>The Mississippi River</p>",
+          "is_correct": false,
+          "order": 1,
+          "id": 1049339613
+        },
+        {
+          "text": "<p>The Nile River</p>",
+          "is_correct": false,
+          "order": 2,
+          "id": 1049339614
+        },
+        {
+          "text": "<p>The Amazon River</p>",
+          "is_correct": true,
+          "order": 4,
+          "id": 1049339615
+        }
+      ],
+      "grading_weight": 1,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 1,
+      "resources": [],
+      "question_id": 296805530
+    },
+    {
+      "question_text": "<p>The diameter of Earth is 8,000 miles (12,875 km)?&nbsp;</p>",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "True",
+          "is_correct": true,
+          "order": 1,
+          "id": 1049339602
+        },
+        {
+          "text": "False",
+          "is_correct": false,
+          "order": 2,
+          "id": 1049339603
+        }
+      ],
+      "grading_weight": 1,
+      "has_correct_answer": true,
+      "type": "TF",
+      "order": 2,
+      "resources": [],
+      "question_id": 296805526
+    },
+    {
+      "question_text": "<p>This is an outline of which country?</p>",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "<p>Italy</p>",
+          "is_correct": true,
+          "order": 2,
+          "id": 1049339604
+        },
+        {
+          "text": "<p>France</p>",
+          "is_correct": false,
+          "order": 1,
+          "id": 1049339605
+        },
+        {
+          "text": "<p>Canada</p>",
+          "is_correct": false,
+          "order": 3,
+          "id": 1049339606
+        },
+        {
+          "text": "<p>Vietnam</p>",
+          "is_correct": false,
+          "order": 4,
+          "id": 1049339607
+        },
+        {
+          "text": "<p>Sweden</p>",
+          "is_correct": false,
+          "order": 5,
+          "id": 1049339608
+        }
+      ],
+      "grading_weight": 1,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 3,
+      "resources": [
+        {
+          "url": "https://s3.amazonaws.com/socrative/sXxIL2OLQem24Yj3ipfJ_imgthingjpg",
+          "data": null,
+          "type": "IM",
+          "id": 38366247
+        }
+      ],
+      "question_id": 296805527
+    },
+    {
+      "question_text": "<p>Iceland is the world's biggest island.</p>",
+      "total_correct_answers": 1,
+      "explanation": "Greenland is the world&#039;s largest island measuring in at 836,300 sq miles (2.166 million km²)",
+      "answers": [
+        {
+          "text": "True",
+          "is_correct": false,
+          "order": 1,
+          "id": 1049339610
+        },
+        {
+          "text": "False",
+          "is_correct": true,
+          "order": 2,
+          "id": 1049339611
+        }
+      ],
+      "grading_weight": 1,
+      "has_correct_answer": true,
+      "type": "TF",
+      "order": 4,
+      "resources": [],
+      "question_id": 296805529
+    },
+    {
+      "question_text": "<p>The world's largest ocean is the _________ ocean.</p>",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "pacific",
+          "is_correct": true,
+          "order": 1,
+          "id": 1049339609
+        }
+      ],
+      "grading_weight": 1,
+      "has_correct_answer": true,
+      "type": "FR",
+      "order": 5,
+      "resources": [],
+      "question_id": 296805528
+    }
+  ],
+  "created_date": 1415197380,
+  "sharable": true,
+  "is_hidden": false,
+  "id": 37182130
+}

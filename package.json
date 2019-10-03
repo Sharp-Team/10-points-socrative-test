@@ -1,0 +1,11 @@
+{
+  "name": "10-points-socrative-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sharp-Team/10-points-socrative-test.git",
+  "author": "Demons Light <jetaimefrc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "umbala": "node 10pointsEz.js"
+  }
+}
