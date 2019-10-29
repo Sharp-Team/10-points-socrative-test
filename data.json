@@ -1,174 +1,664 @@
 {
-  "last_updated": 1569996873,
-  "name": "World Facts Quiz",
-  "soc_number": "42182130",
-  "created_by": 3858089,
+  "last_updated": 1571125550,
+  "name": "FALL ACC101 MID TERM NO. 4",
+  "soc_number": "42459961",
+  "created_by": 3194991,
   "questions": [
     {
-      "question_text": "What is the world&#039;s longest river?",
+      "question_text": "Which statement is true?",
       "total_correct_answers": 1,
       "explanation": "",
       "answers": [
         {
-          "text": "The Yangtze River",
-          "is_correct": false,
-          "order": 5,
-          "id": 1049339616
-        },
-        {
-          "text": "<p>The Danube River</p>",
-          "is_correct": false,
-          "order": 3,
-          "id": 1049339612
-        },
-        {
-          "text": "<p>The Mississippi River</p>",
-          "is_correct": false,
-          "order": 1,
-          "id": 1049339613
-        },
-        {
-          "text": "<p>The Nile River</p>",
+          "text": "Depreciation expense is a contra-asset account with debit balance",
           "is_correct": false,
           "order": 2,
-          "id": 1049339614
+          "id": 1059398572
         },
         {
-          "text": "<p>The Amazon River</p>",
-          "is_correct": true,
+          "text": "Depreciation expense is a contra-asset account with credit balance",
+          "is_correct": false,
           "order": 4,
-          "id": 1049339615
+          "id": 1059398574
+        },
+        {
+          "text": "Accumulated depreciation is a contra-asset account with debit balance",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059398571
+        },
+        {
+          "text": "Accumulated depreciation is a contra-asset account with credit balance",
+          "is_correct": true,
+          "order": 3,
+          "id": 1059398573
         }
       ],
-      "grading_weight": 1,
+      "grading_weight": 1.0,
       "has_correct_answer": true,
       "type": "MC",
       "order": 1,
       "resources": [],
-      "question_id": 296805530
+      "question_id": 299637550
     },
     {
-      "question_text": "<p>The diameter of Earth is 8,000 miles (12,875 km)?&nbsp;</p>",
+      "question_text": "Closing entries at the end of an accounting period are not applied to:",
       "total_correct_answers": 1,
       "explanation": "",
       "answers": [
         {
-          "text": "True",
-          "is_correct": true,
-          "order": 1,
-          "id": 1049339602
-        },
-        {
-          "text": "False",
-          "is_correct": false,
-          "order": 2,
-          "id": 1049339603
-        }
-      ],
-      "grading_weight": 1,
-      "has_correct_answer": true,
-      "type": "TF",
-      "order": 2,
-      "resources": [],
-      "question_id": 296805526
-    },
-    {
-      "question_text": "<p>This is an outline of which country?</p>",
-      "total_correct_answers": 1,
-      "explanation": "",
-      "answers": [
-        {
-          "text": "<p>Italy</p>",
+          "text": "Unearned revenue",
           "is_correct": true,
           "order": 2,
-          "id": 1049339604
+          "id": 1059399213
         },
         {
-          "text": "<p>France</p>",
+          "text": "Depreciation expense",
           "is_correct": false,
           "order": 1,
-          "id": 1049339605
+          "id": 1059399212
         },
         {
-          "text": "<p>Canada</p>",
+          "text": "Salaries expense",
           "is_correct": false,
           "order": 3,
-          "id": 1049339606
+          "id": 1059399214
         },
         {
-          "text": "<p>Vietnam</p>",
+          "text": "Rent revenue",
           "is_correct": false,
           "order": 4,
-          "id": 1049339607
-        },
-        {
-          "text": "<p>Sweden</p>",
-          "is_correct": false,
-          "order": 5,
-          "id": 1049339608
+          "id": 1059399215
         }
       ],
-      "grading_weight": 1,
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 2,
+      "resources": [],
+      "question_id": 299637695
+    },
+    {
+      "question_text": "A company has $50 office supplies at the beginning of the year. \nDuring the year, the company purchased $500 of office supplies on credit. \nOn December 31, there is $100 of office supplies remained. \nWhat are the adjusting entries for office supplies expense?",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Supplies expense $450\nCredit Supplies $450",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059399905
+        },
+        {
+          "text": "Debit Supplies expense $400\nCredit Supplies $400",
+          "is_correct": true,
+          "order": 2,
+          "id": 1059399906
+        },
+        {
+          "text": "Debit Depreciation expense - Supplies $450\nCredit Accumulated Depreciation - Supplies $450",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059399907
+        },
+        {
+          "text": "Debit Depreciation expense - Supplies $450\nCredit Supplies $450",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059399908
+        },
+        {
+          "text": "Debit Depreciation expense - Supplies $400\nCredit Supplies $400",
+          "is_correct": false,
+          "order": 5,
+          "id": 1059399909
+        }
+      ],
+      "grading_weight": 1.0,
       "has_correct_answer": true,
       "type": "MC",
       "order": 3,
-      "resources": [
-        {
-          "url": "https://s3.amazonaws.com/socrative/sXxIL2OLQem24Yj3ipfJ_imgthingjpg",
-          "data": null,
-          "type": "IM",
-          "id": 38366247
-        }
-      ],
-      "question_id": 296805527
-    },
-    {
-      "question_text": "<p>Iceland is the world's biggest island.</p>",
-      "total_correct_answers": 1,
-      "explanation": "Greenland is the world&#039;s largest island measuring in at 836,300 sq miles (2.166 million km²)",
-      "answers": [
-        {
-          "text": "True",
-          "is_correct": false,
-          "order": 1,
-          "id": 1049339610
-        },
-        {
-          "text": "False",
-          "is_correct": true,
-          "order": 2,
-          "id": 1049339611
-        }
-      ],
-      "grading_weight": 1,
-      "has_correct_answer": true,
-      "type": "TF",
-      "order": 4,
       "resources": [],
-      "question_id": 296805529
+      "question_id": 299637919
     },
     {
-      "question_text": "<p>The world's largest ocean is the _________ ocean.</p>",
+      "question_text": "On April 1, 2009, a company prepaid $1,350 on a three-year insurance. What will be the insurance expense on the income statement for the year ended December 31, 2009?",
       "total_correct_answers": 1,
       "explanation": "",
       "answers": [
         {
-          "text": "pacific",
-          "is_correct": true,
+          "text": "$1,350",
+          "is_correct": false,
           "order": 1,
-          "id": 1049339609
+          "id": 1059400905
+        },
+        {
+          "text": "$450",
+          "is_correct": false,
+          "order": 2,
+          "id": 1059400906
+        },
+        {
+          "text": "$1021.5",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059400907
+        },
+        {
+          "text": "$337.50",
+          "is_correct": true,
+          "order": 4,
+          "id": 1059400908
+        },
+        {
+          "text": "$37.50",
+          "is_correct": false,
+          "order": 5,
+          "id": 1059400909
         }
       ],
-      "grading_weight": 1,
+      "grading_weight": 1.0,
       "has_correct_answer": true,
-      "type": "FR",
+      "type": "MC",
+      "order": 4,
+      "resources": [],
+      "question_id": 299638225
+    },
+    {
+      "question_text": "Prepare the necessary closing entries:\nAsset : $15,000\nLiability: $14,000\nWithdrawal: $2,000",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Capital $2,000\nCredit Withdrawals $2,000",
+          "is_correct": true,
+          "order": 1,
+          "id": 1059402228
+        },
+        {
+          "text": "Debit Withdrawals $2,000\nCredit Capital $2,000",
+          "is_correct": false,
+          "order": 2,
+          "id": 1059402229
+        },
+        {
+          "text": "Debit Capital $15,000\nCredit Assets $15,000",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059402230
+        },
+        {
+          "text": "Debit Capital $14,000\nCredit Liability $14,000",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059402231
+        },
+        {
+          "text": "Debit Liability $14,000\nCredit Capital $14,000",
+          "is_correct": false,
+          "order": 5,
+          "id": 1059402232
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
       "order": 5,
       "resources": [],
-      "question_id": 296805528
+      "question_id": 299638586
+    },
+    {
+      "question_text": "The J. Chow, Capital account has a credit balance of $17,000. If total revenues for the period are $55,200, total expenses are $39,800, and withdrawals are $9,000, what is the ending balance in the J. Chow, Capital account?",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "$8,000",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059402450
+        },
+        {
+          "text": "$15,400",
+          "is_correct": false,
+          "order": 2,
+          "id": 1059402451
+        },
+        {
+          "text": "$23,400",
+          "is_correct": true,
+          "order": 3,
+          "id": 1059402452
+        },
+        {
+          "text": "$17,000",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059402453
+        },
+        {
+          "text": "$32,400",
+          "is_correct": false,
+          "order": 5,
+          "id": 1059402454
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 6,
+      "resources": [],
+      "question_id": 299638650
+    },
+    {
+      "question_text": "Prepare the necessary entries to close revenue, knowing the following ending balances:\nAsset : $10,000\nRevenue: $ 15,000\nUnearned revenue: $1,000",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Unearned Revenue: $1,000\nCredit Income summary: $1,000",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059403935
+        },
+        {
+          "text": "Debit Revenue: $15,000\nCredit Income summary: $15,000",
+          "is_correct": true,
+          "order": 2,
+          "id": 1059403936
+        },
+        {
+          "text": "Debit Revenue: $15,000\nDebit Unearned Revenue: $1,000\nCredit Income summary: $16,000",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059403937
+        },
+        {
+          "text": "Debit Income summary: $1,000\nCredit Unearned Revenue: $1,000",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059403938
+        },
+        {
+          "text": "Debit Income summary: $15,000\nCredit Revenue: $15,000",
+          "is_correct": false,
+          "order": 5,
+          "id": 1059403939
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 7,
+      "resources": [],
+      "question_id": 299639097
+    },
+    {
+      "question_text": "Provide descriptions for this transaction:\nDebit Cash $2,000 and Credit Accounts Receivable $2,000",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Provided services on credit",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059404750
+        },
+        {
+          "text": "Received cash for an account receivable",
+          "is_correct": true,
+          "order": 2,
+          "id": 1059404751
+        },
+        {
+          "text": "Purchased on credit",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059404752
+        },
+        {
+          "text": "Provided services on cash",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059404753
+        },
+        {
+          "text": "Purchased on cash",
+          "is_correct": false,
+          "order": 5,
+          "id": 1059404754
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 8,
+      "resources": [],
+      "question_id": 299639347
+    },
+    {
+      "question_text": "Provide descriptions for this transaction:\nDebit Rent expense $8,000 and credit Prepaid rent $8,000",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Paid rent expense by cash $8,000",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059406772
+        },
+        {
+          "text": "Adjusting prepaid rent at the end of period $8,000",
+          "is_correct": true,
+          "order": 2,
+          "id": 1059406773
+        },
+        {
+          "text": "Purchased Prepaid rent by cash $8,000",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059406774
+        },
+        {
+          "text": "Sign rent contract of $8,000",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059406775
+        },
+        {
+          "text": "None of these",
+          "is_correct": false,
+          "order": 5,
+          "id": 1059406776
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 9,
+      "resources": [],
+      "question_id": 299639879
+    },
+    {
+      "question_text": "If the owner of a restaurant, uses cash of the business to pay for renting his house, the business should record this use of cash with an entry to:",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Withdrawals \nCredit Cash",
+          "is_correct": true,
+          "order": 3,
+          "id": 1059407574
+        },
+        {
+          "text": "Debit Cash\nCredit Withdrawals",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059407575
+        },
+        {
+          "text": "Debit Rent Expense \nCredit Cash",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059407572
+        },
+        {
+          "text": "Debit Cash\nCredit Rent Expense",
+          "is_correct": false,
+          "order": 2,
+          "id": 1059407573
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 10,
+      "resources": [],
+      "question_id": 299640124
+    },
+    {
+      "question_text": "Invested $10,000 cash, and a car worth $25,000. Prepare journal entries to record the transactions:",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Cash $10,000\nCredit Capital $10,000\n\nDebit Car $25,000\nCredit Cash $25,000",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059408458
+        },
+        {
+          "text": "Debit Cash $10,000\nDebit Car $25,000\nCredit Capital $35,000",
+          "is_correct": true,
+          "order": 4,
+          "id": 1059408459
+        },
+        {
+          "text": "Debit Cash $35,000\nCredit Capital $35,000",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059408456
+        },
+        {
+          "text": "Debit Cash $10,000\nCredit Capital $10,000",
+          "is_correct": false,
+          "order": 2,
+          "id": 1059408457
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 11,
+      "resources": [],
+      "question_id": 299640366
+    },
+    {
+      "question_text": "A company completed these transactions:\n1. Open new restaurant, by investing $30,000 cash and equipment valued at $10,000.\n2. Purchased $1,000 of kitchen utility on credit.\n3. Paid $1,500 cash for the staff&#039;s salary.\n4. Served meals to customers and collected $4,000 cash\nWhat was the balance of the cash account after these transactions were posted?",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "$45,500",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059409102
+        },
+        {
+          "text": "$31,500",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059409103
+        },
+        {
+          "text": "$32,500",
+          "is_correct": true,
+          "order": 5,
+          "id": 1059409104
+        },
+        {
+          "text": "$42,500",
+          "is_correct": false,
+          "order": 2,
+          "id": 1059409101
+        },
+        {
+          "text": "$46,500",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059409100
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 12,
+      "resources": [],
+      "question_id": 299640529
+    },
+    {
+      "question_text": "On Dec. 01 the Company purchased an equipment for use that costs $10,000 with estimated useful life of 5 year and salvage value of $400. Calculate the depreciation expense for December 31 (the month ended) and prepare the journal entry to record that expense.",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Depreciation expense $160\nCredit Accumulated Depreciation $160",
+          "is_correct": true,
+          "order": 1,
+          "id": 1059411610
+        },
+        {
+          "text": "Debit Depreciation expense $400\nCredit Accumulated Depreciation $400",
+          "is_correct": false,
+          "order": 2,
+          "id": 1059411612
+        },
+        {
+          "text": "Debit Equipment expense $160\nCredit Equipment $160",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059411613
+        },
+        {
+          "text": "Debit Depreciation expense $160\nCredit Equipment $160",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059411616
+        },
+        {
+          "text": "Debit Depreciation expense $400\nCredit Equipment $400",
+          "is_correct": false,
+          "order": 5,
+          "id": 1059411617
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 13,
+      "resources": [],
+      "question_id": 299641272
+    },
+    {
+      "question_text": "During the current year ended December 31, clients paid fees in advance for accounting services amounting to $10,000. If $2,500 of these fees remains unearned on December 31 of this year, present the December 31 adjusting entry to bring the accounts up to date.",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Unearned revenue $2,500\nCredit Revenue $2,500",
+          "is_correct": false,
+          "order": 2,
+          "id": 1059412374
+        },
+        {
+          "text": "Debit Unearned revenue $7,500\nCredit Revenue $7,500",
+          "is_correct": true,
+          "order": 3,
+          "id": 1059412375
+        },
+        {
+          "text": "Debit Cash $7,500\nCredit Revenue $7,500",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059412376
+        },
+        {
+          "text": "Debit Accounts receivable $7,500\nCredit Revenue $7,500",
+          "is_correct": false,
+          "order": 5,
+          "id": 1059412377
+        },
+        {
+          "text": "Debit Cash $2,500\nCredit Revenue $2,500",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059412373
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 14,
+      "resources": [],
+      "question_id": 299641493
+    },
+    {
+      "question_text": "The company has incurred (but not recorded) property tax expense of $2,000 for the year ended December 31. The company must pay the interest on January 2 of the following year. Prepare the adjusting entries to record this.",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Property tax expense $2,000 \nCredit Cash $2,000",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059412961
+        },
+        {
+          "text": "Debit Property tax expense $2,000 \nCredit Property tax payable $2,000",
+          "is_correct": true,
+          "order": 2,
+          "id": 1059412962
+        },
+        {
+          "text": "Debit Interest expense $2,000 \nCredit Cash $2,000",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059412964
+        },
+        {
+          "text": "Debit Interest expense $2,000 \nCredit Interest payable $2,000",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059412963
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 15,
+      "resources": [],
+      "question_id": 299641649
+    },
+    {
+      "question_text": "What is the journal entry to record purchase of supplies on credit?",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Supplies\nCredit Cash",
+          "is_correct": false,
+          "order": 1,
+          "id": 1059413516
+        },
+        {
+          "text": "Debit Supplies\nCredit Accounts payable",
+          "is_correct": true,
+          "order": 2,
+          "id": 1059413517
+        },
+        {
+          "text": "Debit Supplies expense\nCredit Supplies",
+          "is_correct": false,
+          "order": 3,
+          "id": 1059413518
+        },
+        {
+          "text": "Debit Supplies expense\nCredit Supplies payable",
+          "is_correct": false,
+          "order": 4,
+          "id": 1059413519
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 16,
+      "resources": [],
+      "question_id": 299641799
     }
   ],
-  "created_date": 1415197380,
+  "created_date": 1571102483,
   "sharable": true,
   "is_hidden": false,
-  "id": 37182130
+  "id": 37459961
 }
