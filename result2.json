@@ -1,0 +1,200 @@
+[
+  {
+    "id": 0,
+    "question": "Taos Company paid $100 cash for shipping cost of merchandise purchased on terms FOB shipping point. This is recorded as:",
+    "answer": [
+      {
+        "text": "Debit Merchandise Inventory; Credit Cash",
+        "is_correct": true,
+        "order": 1,
+        "id": 1057904208
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "Under terms FOB destination, who will pay transportation cost?",
+    "answer": [
+      {
+        "text": "Seller",
+        "is_correct": true,
+        "order": 2,
+        "id": 1057904225
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "You have the following information:\nPurchased merchandise for $50,000 on credit, credit terms 2/10 n/30\nPaid $250 on the shipping cost.\nPaid the invoice within the discount period.\nWhat is the total cost of merchandise purchased?",
+    "answer": [
+      {
+        "text": "$49,250",
+        "is_correct": true,
+        "order": 2,
+        "id": 1057904201
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Under credit terms 3/15, n/45, the discount period and discount are",
+    "answer": [
+      {
+        "text": "15 days and 3&#37;",
+        "is_correct": true,
+        "order": 2,
+        "id": 1057904221
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "After a year, you have $20,000 of merchandise inventory remained. This value of merchandise inventory is:",
+    "answer": [
+      {
+        "text": "asset",
+        "is_correct": true,
+        "order": 2,
+        "id": 1057904166
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "You sell merchandise on account for $2,000 with credit terms of 2/10, n/30. \nThe customer pays within discount period.\nWhat is the journal entry to record cash collection?",
+    "answer": [
+      {
+        "text": "Dr. Cash                $1,960\nDr. Sales Discount      $40\n   Cr. Accounts Receivable       $2,000",
+        "is_correct": true,
+        "order": 2,
+        "id": 1057904156
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Journal entries to record the purchase of merchandise inventory on cash is:",
+    "answer": [
+      {
+        "text": "Debit Merchandise Inventory; Credit Cash",
+        "is_correct": true,
+        "order": 1,
+        "id": 1057904137
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "On July 12, $800 of merchandise are purchased with credit terms of 1/10, n/30. How much would the buyer pay on July 20?",
+    "answer": [
+      {
+        "text": "792",
+        "is_correct": true,
+        "order": 2,
+        "id": 1070466968
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "After purchasing $2,000 merchandise on credit (recorded to Accounts payable), the company found defective merchandise of $500 and decided to return. The return of merchandise is recorded as:",
+    "answer": [
+      {
+        "text": "Debit Accounts payable $500; Credit Merchandise Inventory $500",
+        "is_correct": true,
+        "order": 3,
+        "id": 1070468864
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Beginning inventory:\t10 units &#64; $10 per unit\t\nFirst purchase:\t        35 units &#64; $11 per unit\t\nSale:\t\t30 units\nSecond purchase:\t        10 units &#64; $12 per unit\t\nThe value of the ending inventory using LIFO valuation method is:",
+    "answer": [
+      {
+        "text": "$275",
+        "is_correct": true,
+        "order": 3,
+        "id": 1070497218
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Beginning inventory:\t15 units &#64; $10 per unit\nFirst purchase:\t35 units &#64; $11 per unit\nSale:\t20 units &#64; $12 per unit\nUsing FIFO method, prepare the journal entry to record the cost of goods sold for the above sales transaction:",
+    "answer": [
+      {
+        "text": "Dr. $205 to Cost of goods sold, Cr. $205 to Merchandise Inventory",
+        "is_correct": true,
+        "order": 1,
+        "id": 1070497290
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Beginning inventory:\t75 units &#64; $25\n1st Purchase:\t348 units &#64; $27 each\t\n1st sales:\t\t300 units\n2nd Purchase:\t257 units &#64; $28 each\t\n2nd Sales:\t\t275\nUsing FIFO method, determine value of ending inventory after all transactions above.",
+    "answer": [
+      {
+        "text": "$2940",
+        "is_correct": true,
+        "order": 1,
+        "id": 1070497564
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Beginning: 50 units &#64; $50\n1st purchase: 200 units &#64; $55\nSale: 210 units &#64; $85\nCompute the cost of goods sold using weighted average method.",
+    "answer": [
+      {
+        "text": "$11340",
+        "is_correct": true,
+        "order": 4,
+        "id": 1070497767
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "The collection of a $900 account receivable with 2 percent discount will result in a:\n(You have to choose 2 answers)",
+    "answer": [
+      {
+        "text": "debit to Cash for $882",
+        "is_correct": true,
+        "order": 1,
+        "id": 1070498732
+      },
+      {
+        "text": "debit to Sales Discounts for $18",
+        "is_correct": true,
+        "order": 4,
+        "id": 1070498735
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Beginning inventory:\t100 units &#64; $10\t\nPurchase:\t150 units &#64; $12\t\n1st Sales:\t\t180 units &#64; $40\nPurchase\t100 units &#64; $14\t\n2nd Sales:\t\t150 units &#64; $40\nUsing LIFO method, determine the cost of goods sold for the 2nd sales.",
+    "answer": [
+      {
+        "text": "$1,900",
+        "is_correct": true,
+        "order": 4,
+        "id": 1070499828
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Which statement is true about FIFO and LIFO method, knowing that prices of merchandise purchased increase over time?",
+    "answer": [
+      {
+        "text": "FIFO produces lower COGS and higher ending inventory than LIFO",
+        "is_correct": true,
+        "order": 2,
+        "id": 1070501020
+      }
+    ]
+  }
+]
