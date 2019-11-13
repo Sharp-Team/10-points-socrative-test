@@ -15,6 +15,7 @@ const writeFile = (path, data, fileName) => {
   })
 }
 
+// TODO: Push the true answer in the first array!
 // Get specific attributes
 const getSpecificAttributes = arr =>
   arr.map(({ text, is_correct }) => {
