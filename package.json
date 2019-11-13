@@ -6,6 +6,7 @@
   "author": "Demons Light <jetaimefrc@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "umbala": "node 10pointsEz.js"
+    "umbala": "node 10pointsEz.js",
+    "learn": "node FilterQuestionToLearn.js"
   }
 }
