@@ -5,123 +5,89 @@
     "answers": [
       {
         "text": "Depreciation expense is a contra-asset account with debit balance",
-        "is_correct": false,
-        "order": 2,
-        "id": 1059398572
+        "isCorrect": false
       },
       {
         "text": "Depreciation expense is a contra-asset account with credit balance",
-        "is_correct": false,
-        "order": 4,
-        "id": 1059398574
+        "isCorrect": false
       },
       {
         "text": "Accumulated depreciation is a contra-asset account with debit balance",
-        "is_correct": false,
-        "order": 1,
-        "id": 1059398571
+        "isCorrect": false
       },
       {
         "text": "Accumulated depreciation is a contra-asset account with credit balance",
-        "is_correct": true,
-        "order": 3,
-        "id": 1059398573
+        "isCorrect": true
       }
     ]
   },
   {
-    "id": 1,
+    "id": 0,
     "question": "Closing entries at the end of an accounting period are not applied to:",
     "answers": [
       {
         "text": "Unearned revenue",
-        "is_correct": true,
-        "order": 2,
-        "id": 1059399213
+        "isCorrect": true
       },
       {
         "text": "Depreciation expense",
-        "is_correct": false,
-        "order": 1,
-        "id": 1059399212
+        "isCorrect": false
       },
       {
         "text": "Salaries expense",
-        "is_correct": false,
-        "order": 3,
-        "id": 1059399214
+        "isCorrect": false
       },
       {
         "text": "Rent revenue",
-        "is_correct": false,
-        "order": 4,
-        "id": 1059399215
+        "isCorrect": false
       }
     ]
   },
   {
-    "id": 2,
+    "id": 0,
     "question": "Under terms FOB destination, who will pay transportation cost?",
     "answers": [
       {
         "text": "Transportation company",
-        "is_correct": false,
-        "order": 3,
-        "id": 1057904224
+        "isCorrect": false
       },
       {
         "text": "Seller",
-        "is_correct": true,
-        "order": 2,
-        "id": 1057904225
+        "isCorrect": true
       },
       {
         "text": "Buyer",
-        "is_correct": false,
-        "order": 1,
-        "id": 1057904226
+        "isCorrect": false
       },
       {
         "text": "Both buyer and seller",
-        "is_correct": false,
-        "order": 4,
-        "id": 1057904227
+        "isCorrect": false
       }
     ]
   },
   {
-    "id": 3,
+    "id": 0,
     "question": "Which statement is true about FIFO and LIFO method, knowing that prices of merchandise purchased increase over time?",
     "answers": [
       {
         "text": "FIFO produces higher COGS and lower ending inventory than LIFO",
-        "is_correct": false,
-        "order": 1,
-        "id": 1070501019
+        "isCorrect": false
       },
       {
         "text": "FIFO produces lower COGS and higher ending inventory than LIFO",
-        "is_correct": true,
-        "order": 2,
-        "id": 1070501020
+        "isCorrect": true
       },
       {
         "text": "FIFO produces lower COGS and lower ending inventory than LIFO",
-        "is_correct": false,
-        "order": 3,
-        "id": 1070501021
+        "isCorrect": false
       },
       {
         "text": "It depends",
-        "is_correct": false,
-        "order": 5,
-        "id": 1070501023
+        "isCorrect": false
       },
       {
         "text": "FIFO produces higher COGS and higher ending inventory than LIFO",
-        "is_correct": false,
-        "order": 4,
-        "id": 1070501022
+        "isCorrect": false
       }
     ]
   }

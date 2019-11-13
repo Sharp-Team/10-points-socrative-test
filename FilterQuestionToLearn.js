@@ -15,24 +15,34 @@ const writeFile = (path, data, fileName) => {
   })
 }
 
+// Get specific attributes
+const getSpecificAttributes = arr =>
+  arr.map(({ text, is_correct }) => {
+    return {
+      text,
+      isCorrect: is_correct,
+    }
+  })
+
+const handleData = (id, question, answers, data) => {
+  let temp = {}
+  temp.id = id
+  temp.question = question
+  // Just get specific attributes
+  temp.answers = getSpecificAttributes(answers)
+  data.push(temp)
+  id++
+}
+
 fs.readdirSync(pathQuestions).forEach(fileName => {
   // Get list questions in the data
   const { questions } = require(pathQuestions + fileName)
   Array.from(questions).forEach(({ question_text, answers }) => {
-    let temp = {}
     // Check that question text contains number || contains "record" => debit/credit
     if (/\d/.test(question_text) || question_text.includes('record')) {
-      temp.id = debitCreditID
-      temp.question = question_text
-      temp.answers = answers
-      debitCreditData.push(temp)
-      debitCreditID++
+      handleData(debitCreditID, question_text, answers, debitCreditData)
     } else {
-      temp.id = theoryID
-      temp.question = question_text
-      temp.answers = answers
-      theoryData.push(temp)
-      theoryID++
+      handleData(theoryID, question_text, answers, theoryData)
     }
   })
 })
