@@ -27,4 +27,6 @@ fs.writeFile(fileResult, JSON.stringify(result, null, 2), err => {
 
 // JWT hash default - API
 
-// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsaW5rQVBJIjoiaHR0cHM6Ly9hcGkuc29jcmF0aXZlLmNvbS9xdWl6emVzL2FwaS9xdWl6LzM3NDE4OTQ3P3Jvb21fbmFtZT1GQUxMMTlUSEFPR1RNIn0.Z9hyeftoRQqOlX_wQPj4cwbp638jldXTJtJE7WqPOos
+// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+// .eyJsaW5rQVBJIjoiaHR0cHM6Ly9hcGkuc29jcmF0aXZlLmNvbS9xdWl6emVzL2FwaS9xdWl6LzM3NDE4OTQ3P3Jvb21fbmFtZT1GQUxMMTlUSEFPR1RNIn0
+// Z9hyeftoRQqOlX_wQPj4cwbp638jldXTJtJE7WqPOos
