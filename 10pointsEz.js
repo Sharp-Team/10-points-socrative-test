@@ -1,12 +1,12 @@
 const fs = require('fs')
-const data = require('./data_test3.json')
+const data = require('./data/Questions/data_test3.json')
 const questions = data.questions
 
 const result = []
 // Thêm ID để chia ra => Mỗi thành viên sẽ có result.length / n(số thành viên) câu hỏi => Ez game!!!
 let id = 0
 // Lưu kết quả vào file
-const fileResult = 'result2.json'
+const fileResult = 'data/Results/result2.json'
 
 questions.forEach(({ question_text, answers }) => {
   const temp = {}
@@ -25,4 +25,6 @@ fs.writeFile(fileResult, JSON.stringify(result, null, 2), err => {
   console.log('Result saved!')
 })
 
-// https://api.socrative.com/quizzes/api/quiz/37418947?room_name=FALL19THAOGTM
+// JWT hash default - API
+
+// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsaW5rQVBJIjoiaHR0cHM6Ly9hcGkuc29jcmF0aXZlLmNvbS9xdWl6emVzL2FwaS9xdWl6LzM3NDE4OTQ3P3Jvb21fbmFtZT1GQUxMMTlUSEFPR1RNIn0.Z9hyeftoRQqOlX_wQPj4cwbp638jldXTJtJE7WqPOos
