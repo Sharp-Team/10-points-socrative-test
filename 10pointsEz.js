@@ -12,8 +12,6 @@ questions.forEach(({ question_text, answers }) => {
   const temp = {}
   const res = answers.filter(({ is_correct }) => is_correct === true)
   temp.id = id
-  // Vì câu hỏi đôi khi sẽ dài => cắt ngắn cho dễ nhìn!
-  // temp.question = question_text.substring(0, 60)
   temp.question = question_text
   temp.answer = res
   result.push(temp)
