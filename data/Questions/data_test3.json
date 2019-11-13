@@ -1,0 +1,634 @@
+{
+  "last_updated": 1572335156,
+  "name": "ACC101 - 3rd test (For Indi) No.1 (SE)",
+  "soc_number": "40854160",
+  "created_by": 3194991,
+  "questions": [
+    {
+      "question_text": "Taos Company paid $100 cash for shipping cost of merchandise purchased on terms FOB shipping point. This is recorded as:",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Merchandise Inventory; Credit Cash",
+          "is_correct": true,
+          "order": 1,
+          "id": 1057904208
+        },
+        {
+          "text": "Debit Shipping expense; Credit Cash",
+          "is_correct": false,
+          "order": 2,
+          "id": 1057904209
+        },
+        {
+          "text": "Debit Merchandise Inventory; Credit Accounts Payable",
+          "is_correct": false,
+          "order": 3,
+          "id": 1057904210
+        },
+        {
+          "text": "Debit Shipping expense; Credit Accounts Payable",
+          "is_correct": false,
+          "order": 4,
+          "id": 1057904211
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 1,
+      "resources": [],
+      "question_id": 299217087
+    },
+    {
+      "question_text": "Under terms FOB destination, who will pay transportation cost?",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Transportation company",
+          "is_correct": false,
+          "order": 3,
+          "id": 1057904224
+        },
+        {
+          "text": "Seller",
+          "is_correct": true,
+          "order": 2,
+          "id": 1057904225
+        },
+        {
+          "text": "Buyer",
+          "is_correct": false,
+          "order": 1,
+          "id": 1057904226
+        },
+        {
+          "text": "Both buyer and seller",
+          "is_correct": false,
+          "order": 4,
+          "id": 1057904227
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 2,
+      "resources": [],
+      "question_id": 299217084
+    },
+    {
+      "question_text": "You have the following information:\nPurchased merchandise for $50,000 on credit, credit terms 2/10 n/30\nPaid $250 on the shipping cost.\nPaid the invoice within the discount period.\nWhat is the total cost of merchandise purchased?",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "$48,020",
+          "is_correct": false,
+          "order": 1,
+          "id": 1057904200
+        },
+        {
+          "text": "$49,250",
+          "is_correct": true,
+          "order": 2,
+          "id": 1057904201
+        },
+        {
+          "text": "$48,265",
+          "is_correct": false,
+          "order": 3,
+          "id": 1057904202
+        },
+        {
+          "text": "$48,270",
+          "is_correct": false,
+          "order": 4,
+          "id": 1057904203
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 3,
+      "resources": [],
+      "question_id": 299217089
+    },
+    {
+      "question_text": "Under credit terms 3/15, n/45, the discount period and discount are",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "3 days and 15&#37;",
+          "is_correct": false,
+          "order": 1,
+          "id": 1057904220
+        },
+        {
+          "text": "15 days and 3&#37;",
+          "is_correct": true,
+          "order": 2,
+          "id": 1057904221
+        },
+        {
+          "text": "45 days and 3&#37;",
+          "is_correct": false,
+          "order": 3,
+          "id": 1057904222
+        },
+        {
+          "text": "10 days and 2&#37;",
+          "is_correct": false,
+          "order": 4,
+          "id": 1057904223
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 4,
+      "resources": [],
+      "question_id": 299217085
+    },
+    {
+      "question_text": "After a year, you have $20,000 of merchandise inventory remained. This value of merchandise inventory is:",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "expense",
+          "is_correct": false,
+          "order": 4,
+          "id": 1057904164
+        },
+        {
+          "text": "sales revenue",
+          "is_correct": false,
+          "order": 3,
+          "id": 1057904165
+        },
+        {
+          "text": "asset",
+          "is_correct": true,
+          "order": 2,
+          "id": 1057904166
+        },
+        {
+          "text": "liability",
+          "is_correct": false,
+          "order": 1,
+          "id": 1057904167
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 5,
+      "resources": [],
+      "question_id": 299217096
+    },
+    {
+      "question_text": "You sell merchandise on account for $2,000 with credit terms of 2/10, n/30. \nThe customer pays within discount period.\nWhat is the journal entry to record cash collection?",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Dr. Cash                $1,960\nDr. Sales Discount      $40\n   Cr. Accounts Receivable       $2,000",
+          "is_correct": true,
+          "order": 2,
+          "id": 1057904156
+        },
+        {
+          "text": "Dr. Cash $1960\n   Cr. Accounts Receivable $1960",
+          "is_correct": false,
+          "order": 1,
+          "id": 1057904157
+        },
+        {
+          "text": "Dr. Cash $1,960\n   Dr. Sales Returns and Allowances $40\n   Cr. Accounts Receivable          $2,000",
+          "is_correct": false,
+          "order": 3,
+          "id": 1057904158
+        },
+        {
+          "text": "Dr. Cash $1,960\n   Cr. Sales Discount      $40\n   Cr. Accounts Receivable $1,960",
+          "is_correct": false,
+          "order": 4,
+          "id": 1057904159
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 6,
+      "resources": [],
+      "question_id": 299217098
+    },
+    {
+      "question_text": "Journal entries to record the purchase of merchandise inventory on cash is:",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Accounts payable; Credit Merchandise Inventory",
+          "is_correct": false,
+          "order": 4,
+          "id": 1057904134
+        },
+        {
+          "text": "Debit Merchandise Inventory; Credit Accounts payable",
+          "is_correct": false,
+          "order": 3,
+          "id": 1057904135
+        },
+        {
+          "text": "Debit Merchandise Expense; Credit Cash",
+          "is_correct": false,
+          "order": 2,
+          "id": 1057904136
+        },
+        {
+          "text": "Debit Merchandise Inventory; Credit Cash",
+          "is_correct": true,
+          "order": 1,
+          "id": 1057904137
+        },
+        {
+          "text": "Debit Supplies; Credit Cash",
+          "is_correct": false,
+          "order": 5,
+          "id": 1070466964
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 7,
+      "resources": [],
+      "question_id": 299217103
+    },
+    {
+      "question_text": "On July 12, $800 of merchandise are purchased with credit terms of 1/10, n/30. How much would the buyer pay on July 20?",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "790",
+          "is_correct": false,
+          "order": 1,
+          "id": 1070466967
+        },
+        {
+          "text": "792",
+          "is_correct": true,
+          "order": 2,
+          "id": 1070466968
+        },
+        {
+          "text": "800",
+          "is_correct": false,
+          "order": 3,
+          "id": 1070466969
+        },
+        {
+          "text": "8",
+          "is_correct": false,
+          "order": 4,
+          "id": 1070466970
+        },
+        {
+          "text": "720",
+          "is_correct": false,
+          "order": 5,
+          "id": 1070466971
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 8,
+      "resources": [],
+      "question_id": 302758882
+    },
+    {
+      "question_text": "After purchasing $2,000 merchandise on credit (recorded to Accounts payable), the company found defective merchandise of $500 and decided to return. The return of merchandise is recorded as:",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Debit Accounts payable $500; Credit Merchandise Inventory $500",
+          "is_correct": true,
+          "order": 3,
+          "id": 1070468864
+        },
+        {
+          "text": "Debit Accounts payable $1500; Credit Merchandise Inventory $1500",
+          "is_correct": false,
+          "order": 4,
+          "id": 1070468865
+        },
+        {
+          "text": "Debit Cash $500; Credit Merchandise Inventory $500",
+          "is_correct": false,
+          "order": 1,
+          "id": 1070468862
+        },
+        {
+          "text": "Debit Cash $1500; Credit Merchandise Inventory $1500",
+          "is_correct": false,
+          "order": 2,
+          "id": 1070468863
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 9,
+      "resources": [],
+      "question_id": 302761712
+    },
+    {
+      "question_text": "Beginning inventory:\t10 units &#64; $10 per unit\t\nFirst purchase:\t        35 units &#64; $11 per unit\t\nSale:\t\t30 units\nSecond purchase:\t        10 units &#64; $12 per unit\t\nThe value of the ending inventory using LIFO valuation method is:",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "$285",
+          "is_correct": false,
+          "order": 1,
+          "id": 1070497216
+        },
+        {
+          "text": "$155",
+          "is_correct": false,
+          "order": 2,
+          "id": 1070497217
+        },
+        {
+          "text": "$275",
+          "is_correct": true,
+          "order": 3,
+          "id": 1070497218
+        },
+        {
+          "text": "$120",
+          "is_correct": false,
+          "order": 4,
+          "id": 1070497219
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 10,
+      "resources": [],
+      "question_id": 302770385
+    },
+    {
+      "question_text": "Beginning inventory:\t15 units &#64; $10 per unit\nFirst purchase:\t35 units &#64; $11 per unit\nSale:\t20 units &#64; $12 per unit\nUsing FIFO method, prepare the journal entry to record the cost of goods sold for the above sales transaction:",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "Dr. $205 to Cost of goods sold, Cr. $205 to Merchandise Inventory",
+          "is_correct": true,
+          "order": 1,
+          "id": 1070497290
+        },
+        {
+          "text": "Dr. $220 to Cost of goods sold, Cr. $220 to Merchandise Inventory",
+          "is_correct": false,
+          "order": 2,
+          "id": 1070497291
+        },
+        {
+          "text": "Dr. $205 to Merchandise Inventory, Cr. $205 to Cost of goods sold",
+          "is_correct": false,
+          "order": 3,
+          "id": 1070497292
+        },
+        {
+          "text": "Dr. $220 to Merchandise Inventory, Cr. $220 to Cost of goods sold",
+          "is_correct": false,
+          "order": 4,
+          "id": 1070497293
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 11,
+      "resources": [],
+      "question_id": 302770433
+    },
+    {
+      "question_text": "Beginning inventory:\t75 units &#64; $25\n1st Purchase:\t348 units &#64; $27 each\t\n1st sales:\t\t300 units\n2nd Purchase:\t257 units &#64; $28 each\t\n2nd Sales:\t\t275\nUsing FIFO method, determine value of ending inventory after all transactions above.",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "$2705",
+          "is_correct": false,
+          "order": 5,
+          "id": 1070497568
+        },
+        {
+          "text": "$2940",
+          "is_correct": true,
+          "order": 1,
+          "id": 1070497564
+        },
+        {
+          "text": "$2685",
+          "is_correct": false,
+          "order": 2,
+          "id": 1070497565
+        },
+        {
+          "text": "$2625",
+          "is_correct": false,
+          "order": 3,
+          "id": 1070497566
+        },
+        {
+          "text": "$2852",
+          "is_correct": false,
+          "order": 4,
+          "id": 1070497567
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 12,
+      "resources": [],
+      "question_id": 302770513
+    },
+    {
+      "question_text": "Beginning: 50 units &#64; $50\n1st purchase: 200 units &#64; $55\nSale: 210 units &#64; $85\nCompute the cost of goods sold using weighted average method.",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "$11025",
+          "is_correct": false,
+          "order": 1,
+          "id": 1070497764
+        },
+        {
+          "text": "$11300",
+          "is_correct": false,
+          "order": 2,
+          "id": 1070497765
+        },
+        {
+          "text": "$11500",
+          "is_correct": false,
+          "order": 3,
+          "id": 1070497766
+        },
+        {
+          "text": "$11340",
+          "is_correct": true,
+          "order": 4,
+          "id": 1070497767
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 13,
+      "resources": [],
+      "question_id": 302770585
+    },
+    {
+      "question_text": "The collection of a $900 account receivable with 2 percent discount will result in a:\n(You have to choose 2 answers)",
+      "total_correct_answers": 2,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "debit to Cash for $882",
+          "is_correct": true,
+          "order": 1,
+          "id": 1070498732
+        },
+        {
+          "text": "debit to Accounts Receivable for $900",
+          "is_correct": false,
+          "order": 2,
+          "id": 1070498733
+        },
+        {
+          "text": "debit to Cash for $900",
+          "is_correct": false,
+          "order": 3,
+          "id": 1070498734
+        },
+        {
+          "text": "debit to Sales Discounts for $18",
+          "is_correct": true,
+          "order": 4,
+          "id": 1070498735
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 14,
+      "resources": [],
+      "question_id": 302770905
+    },
+    {
+      "question_text": "Beginning inventory:\t100 units &#64; $10\t\nPurchase:\t150 units &#64; $12\t\n1st Sales:\t\t180 units &#64; $40\nPurchase\t100 units &#64; $14\t\n2nd Sales:\t\t150 units &#64; $40\nUsing LIFO method, determine the cost of goods sold for the 2nd sales.",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "$6,000",
+          "is_correct": false,
+          "order": 1,
+          "id": 1070499825
+        },
+        {
+          "text": "$2,100",
+          "is_correct": false,
+          "order": 2,
+          "id": 1070499826
+        },
+        {
+          "text": "$1,820",
+          "is_correct": false,
+          "order": 3,
+          "id": 1070499827
+        },
+        {
+          "text": "$1,900",
+          "is_correct": true,
+          "order": 4,
+          "id": 1070499828
+        },
+        {
+          "text": "$1,960",
+          "is_correct": false,
+          "order": 5,
+          "id": 1070499829
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 15,
+      "resources": [],
+      "question_id": 302771268
+    },
+    {
+      "question_text": "Which statement is true about FIFO and LIFO method, knowing that prices of merchandise purchased increase over time?",
+      "total_correct_answers": 1,
+      "explanation": "",
+      "answers": [
+        {
+          "text": "FIFO produces higher COGS and lower ending inventory than LIFO",
+          "is_correct": false,
+          "order": 1,
+          "id": 1070501019
+        },
+        {
+          "text": "FIFO produces lower COGS and higher ending inventory than LIFO",
+          "is_correct": true,
+          "order": 2,
+          "id": 1070501020
+        },
+        {
+          "text": "FIFO produces lower COGS and lower ending inventory than LIFO",
+          "is_correct": false,
+          "order": 3,
+          "id": 1070501021
+        },
+        {
+          "text": "It depends",
+          "is_correct": false,
+          "order": 5,
+          "id": 1070501023
+        },
+        {
+          "text": "FIFO produces higher COGS and higher ending inventory than LIFO",
+          "is_correct": false,
+          "order": 4,
+          "id": 1070501022
+        }
+      ],
+      "grading_weight": 1.0,
+      "has_correct_answer": true,
+      "type": "MC",
+      "order": 16,
+      "resources": [],
+      "question_id": 302771559
+    }
+  ],
+  "created_date": 1541128344,
+  "sharable": true,
+  "is_hidden": false,
+  "id": 37418947
+}
