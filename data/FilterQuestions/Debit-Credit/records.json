@@ -4,12 +4,12 @@
     "question": "A company has $50 office supplies at the beginning of the year. \nDuring the year, the company purchased $500 of office supplies on credit. \nOn December 31, there is $100 of office supplies remained. \nWhat are the adjusting entries for office supplies expense?",
     "answers": [
       {
-        "text": "Debit Supplies expense $450\nCredit Supplies $450",
-        "isCorrect": false
-      },
-      {
         "text": "Debit Supplies expense $400\nCredit Supplies $400",
         "isCorrect": true
+      },
+      {
+        "text": "Debit Supplies expense $450\nCredit Supplies $450",
+        "isCorrect": false
       },
       {
         "text": "Debit Depreciation expense - Supplies $450\nCredit Accumulated Depreciation - Supplies $450",
@@ -26,9 +26,13 @@
     ]
   },
   {
-    "id": 0,
+    "id": 1,
     "question": "On April 1, 2009, a company prepaid $1,350 on a three-year insurance. What will be the insurance expense on the income statement for the year ended December 31, 2009?",
     "answers": [
+      {
+        "text": "$337.50",
+        "isCorrect": true
+      },
       {
         "text": "$1,350",
         "isCorrect": false
@@ -42,17 +46,13 @@
         "isCorrect": false
       },
       {
-        "text": "$337.50",
-        "isCorrect": true
-      },
-      {
         "text": "$37.50",
         "isCorrect": false
       }
     ]
   },
   {
-    "id": 0,
+    "id": 2,
     "question": "Prepare the necessary closing entries:\nAsset : $15,000\nLiability: $14,000\nWithdrawal: $2,000",
     "answers": [
       {
@@ -78,9 +78,13 @@
     ]
   },
   {
-    "id": 0,
+    "id": 3,
     "question": "The J. Chow, Capital account has a credit balance of $17,000. If total revenues for the period are $55,200, total expenses are $39,800, and withdrawals are $9,000, what is the ending balance in the J. Chow, Capital account?",
     "answers": [
+      {
+        "text": "$23,400",
+        "isCorrect": true
+      },
       {
         "text": "$8,000",
         "isCorrect": false
@@ -88,10 +92,6 @@
       {
         "text": "$15,400",
         "isCorrect": false
-      },
-      {
-        "text": "$23,400",
-        "isCorrect": true
       },
       {
         "text": "$17,000",
@@ -104,16 +104,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 4,
     "question": "Prepare the necessary entries to close revenue, knowing the following ending balances:\nAsset : $10,000\nRevenue: $ 15,000\nUnearned revenue: $1,000",
     "answers": [
       {
-        "text": "Debit Unearned Revenue: $1,000\nCredit Income summary: $1,000",
-        "isCorrect": false
-      },
-      {
         "text": "Debit Revenue: $15,000\nCredit Income summary: $15,000",
         "isCorrect": true
+      },
+      {
+        "text": "Debit Unearned Revenue: $1,000\nCredit Income summary: $1,000",
+        "isCorrect": false
       },
       {
         "text": "Debit Revenue: $15,000\nDebit Unearned Revenue: $1,000\nCredit Income summary: $16,000",
@@ -130,16 +130,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 5,
     "question": "Provide descriptions for this transaction:\nDebit Cash $2,000 and Credit Accounts Receivable $2,000",
     "answers": [
       {
-        "text": "Provided services on credit",
-        "isCorrect": false
-      },
-      {
         "text": "Received cash for an account receivable",
         "isCorrect": true
+      },
+      {
+        "text": "Provided services on credit",
+        "isCorrect": false
       },
       {
         "text": "Purchased on credit",
@@ -156,16 +156,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 6,
     "question": "Provide descriptions for this transaction:\nDebit Rent expense $8,000 and credit Prepaid rent $8,000",
     "answers": [
       {
-        "text": "Paid rent expense by cash $8,000",
-        "isCorrect": false
-      },
-      {
         "text": "Adjusting prepaid rent at the end of period $8,000",
         "isCorrect": true
+      },
+      {
+        "text": "Paid rent expense by cash $8,000",
+        "isCorrect": false
       },
       {
         "text": "Purchased Prepaid rent by cash $8,000",
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 7,
     "question": "If the owner of a restaurant, uses cash of the business to pay for renting his house, the business should record this use of cash with an entry to:",
     "answers": [
       {
@@ -204,16 +204,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 8,
     "question": "Invested $10,000 cash, and a car worth $25,000. Prepare journal entries to record the transactions:",
     "answers": [
       {
-        "text": "Debit Cash $10,000\nCredit Capital $10,000\n\nDebit Car $25,000\nCredit Cash $25,000",
-        "isCorrect": false
-      },
-      {
         "text": "Debit Cash $10,000\nDebit Car $25,000\nCredit Capital $35,000",
         "isCorrect": true
+      },
+      {
+        "text": "Debit Cash $10,000\nCredit Capital $10,000\n\nDebit Car $25,000\nCredit Cash $25,000",
+        "isCorrect": false
       },
       {
         "text": "Debit Cash $35,000\nCredit Capital $35,000",
@@ -226,9 +226,13 @@
     ]
   },
   {
-    "id": 0,
+    "id": 9,
     "question": "A company completed these transactions:\n1. Open new restaurant, by investing $30,000 cash and equipment valued at $10,000.\n2. Purchased $1,000 of kitchen utility on credit.\n3. Paid $1,500 cash for the staff&#039;s salary.\n4. Served meals to customers and collected $4,000 cash\nWhat was the balance of the cash account after these transactions were posted?",
     "answers": [
+      {
+        "text": "$32,500",
+        "isCorrect": true
+      },
       {
         "text": "$45,500",
         "isCorrect": false
@@ -236,10 +240,6 @@
       {
         "text": "$31,500",
         "isCorrect": false
-      },
-      {
-        "text": "$32,500",
-        "isCorrect": true
       },
       {
         "text": "$42,500",
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 10,
     "question": "On Dec. 01 the Company purchased an equipment for use that costs $10,000 with estimated useful life of 5 year and salvage value of $400. Calculate the depreciation expense for December 31 (the month ended) and prepare the journal entry to record that expense.",
     "answers": [
       {
@@ -278,16 +278,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 11,
     "question": "During the current year ended December 31, clients paid fees in advance for accounting services amounting to $10,000. If $2,500 of these fees remains unearned on December 31 of this year, present the December 31 adjusting entry to bring the accounts up to date.",
     "answers": [
       {
-        "text": "Debit Unearned revenue $2,500\nCredit Revenue $2,500",
-        "isCorrect": false
-      },
-      {
         "text": "Debit Unearned revenue $7,500\nCredit Revenue $7,500",
         "isCorrect": true
+      },
+      {
+        "text": "Debit Unearned revenue $2,500\nCredit Revenue $2,500",
+        "isCorrect": false
       },
       {
         "text": "Debit Cash $7,500\nCredit Revenue $7,500",
@@ -304,16 +304,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 12,
     "question": "The company has incurred (but not recorded) property tax expense of $2,000 for the year ended December 31. The company must pay the interest on January 2 of the following year. Prepare the adjusting entries to record this.",
     "answers": [
       {
-        "text": "Debit Property tax expense $2,000 \nCredit Cash $2,000",
-        "isCorrect": false
-      },
-      {
         "text": "Debit Property tax expense $2,000 \nCredit Property tax payable $2,000",
         "isCorrect": true
+      },
+      {
+        "text": "Debit Property tax expense $2,000 \nCredit Cash $2,000",
+        "isCorrect": false
       },
       {
         "text": "Debit Interest expense $2,000 \nCredit Cash $2,000",
@@ -326,16 +326,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 13,
     "question": "What is the journal entry to record purchase of supplies on credit?",
     "answers": [
       {
-        "text": "Debit Supplies\nCredit Cash",
-        "isCorrect": false
-      },
-      {
         "text": "Debit Supplies\nCredit Accounts payable",
         "isCorrect": true
+      },
+      {
+        "text": "Debit Supplies\nCredit Cash",
+        "isCorrect": false
       },
       {
         "text": "Debit Supplies expense\nCredit Supplies",
@@ -348,7 +348,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 14,
     "question": "Taos Company paid $100 cash for shipping cost of merchandise purchased on terms FOB shipping point. This is recorded as:",
     "answers": [
       {
@@ -370,16 +370,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 15,
     "question": "You have the following information:\nPurchased merchandise for $50,000 on credit, credit terms 2/10 n/30\nPaid $250 on the shipping cost.\nPaid the invoice within the discount period.\nWhat is the total cost of merchandise purchased?",
     "answers": [
       {
-        "text": "$48,020",
-        "isCorrect": false
-      },
-      {
         "text": "$49,250",
         "isCorrect": true
+      },
+      {
+        "text": "$48,020",
+        "isCorrect": false
       },
       {
         "text": "$48,265",
@@ -392,16 +392,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 16,
     "question": "Under credit terms 3/15, n/45, the discount period and discount are",
     "answers": [
       {
-        "text": "3 days and 15&#37;",
-        "isCorrect": false
-      },
-      {
         "text": "15 days and 3&#37;",
         "isCorrect": true
+      },
+      {
+        "text": "3 days and 15&#37;",
+        "isCorrect": false
       },
       {
         "text": "45 days and 3&#37;",
@@ -414,9 +414,13 @@
     ]
   },
   {
-    "id": 0,
+    "id": 17,
     "question": "After a year, you have $20,000 of merchandise inventory remained. This value of merchandise inventory is:",
     "answers": [
+      {
+        "text": "asset",
+        "isCorrect": true
+      },
       {
         "text": "expense",
         "isCorrect": false
@@ -426,17 +430,13 @@
         "isCorrect": false
       },
       {
-        "text": "asset",
-        "isCorrect": true
-      },
-      {
         "text": "liability",
         "isCorrect": false
       }
     ]
   },
   {
-    "id": 0,
+    "id": 18,
     "question": "You sell merchandise on account for $2,000 with credit terms of 2/10, n/30. \nThe customer pays within discount period.\nWhat is the journal entry to record cash collection?",
     "answers": [
       {
@@ -458,9 +458,13 @@
     ]
   },
   {
-    "id": 0,
+    "id": 19,
     "question": "Journal entries to record the purchase of merchandise inventory on cash is:",
     "answers": [
+      {
+        "text": "Debit Merchandise Inventory; Credit Cash",
+        "isCorrect": true
+      },
       {
         "text": "Debit Accounts payable; Credit Merchandise Inventory",
         "isCorrect": false
@@ -474,26 +478,22 @@
         "isCorrect": false
       },
       {
-        "text": "Debit Merchandise Inventory; Credit Cash",
-        "isCorrect": true
-      },
-      {
         "text": "Debit Supplies; Credit Cash",
         "isCorrect": false
       }
     ]
   },
   {
-    "id": 0,
+    "id": 20,
     "question": "On July 12, $800 of merchandise are purchased with credit terms of 1/10, n/30. How much would the buyer pay on July 20?",
     "answers": [
       {
-        "text": "790",
-        "isCorrect": false
-      },
-      {
         "text": "792",
         "isCorrect": true
+      },
+      {
+        "text": "790",
+        "isCorrect": false
       },
       {
         "text": "800",
@@ -510,7 +510,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 21,
     "question": "After purchasing $2,000 merchandise on credit (recorded to Accounts payable), the company found defective merchandise of $500 and decided to return. The return of merchandise is recorded as:",
     "answers": [
       {
@@ -532,9 +532,13 @@
     ]
   },
   {
-    "id": 0,
+    "id": 22,
     "question": "Beginning inventory:\t10 units &#64; $10 per unit\t\nFirst purchase:\t        35 units &#64; $11 per unit\t\nSale:\t\t30 units\nSecond purchase:\t        10 units &#64; $12 per unit\t\nThe value of the ending inventory using LIFO valuation method is:",
     "answers": [
+      {
+        "text": "$275",
+        "isCorrect": true
+      },
       {
         "text": "$285",
         "isCorrect": false
@@ -544,17 +548,13 @@
         "isCorrect": false
       },
       {
-        "text": "$275",
-        "isCorrect": true
-      },
-      {
         "text": "$120",
         "isCorrect": false
       }
     ]
   },
   {
-    "id": 0,
+    "id": 23,
     "question": "Beginning inventory:\t15 units &#64; $10 per unit\nFirst purchase:\t35 units &#64; $11 per unit\nSale:\t20 units &#64; $12 per unit\nUsing FIFO method, prepare the journal entry to record the cost of goods sold for the above sales transaction:",
     "answers": [
       {
@@ -576,16 +576,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 24,
     "question": "Beginning inventory:\t75 units &#64; $25\n1st Purchase:\t348 units &#64; $27 each\t\n1st sales:\t\t300 units\n2nd Purchase:\t257 units &#64; $28 each\t\n2nd Sales:\t\t275\nUsing FIFO method, determine value of ending inventory after all transactions above.",
     "answers": [
       {
-        "text": "$2705",
-        "isCorrect": false
-      },
-      {
         "text": "$2940",
         "isCorrect": true
+      },
+      {
+        "text": "$2705",
+        "isCorrect": false
       },
       {
         "text": "$2685",
@@ -602,9 +602,13 @@
     ]
   },
   {
-    "id": 0,
+    "id": 25,
     "question": "Beginning: 50 units &#64; $50\n1st purchase: 200 units &#64; $55\nSale: 210 units &#64; $85\nCompute the cost of goods sold using weighted average method.",
     "answers": [
+      {
+        "text": "$11340",
+        "isCorrect": true
+      },
       {
         "text": "$11025",
         "isCorrect": false
@@ -616,19 +620,19 @@
       {
         "text": "$11500",
         "isCorrect": false
-      },
-      {
-        "text": "$11340",
-        "isCorrect": true
       }
     ]
   },
   {
-    "id": 0,
+    "id": 26,
     "question": "The collection of a $900 account receivable with 2 percent discount will result in a:\n(You have to choose 2 answers)",
     "answers": [
       {
         "text": "debit to Cash for $882",
+        "isCorrect": true
+      },
+      {
+        "text": "debit to Sales Discounts for $18",
         "isCorrect": true
       },
       {
@@ -638,17 +642,17 @@
       {
         "text": "debit to Cash for $900",
         "isCorrect": false
-      },
-      {
-        "text": "debit to Sales Discounts for $18",
-        "isCorrect": true
       }
     ]
   },
   {
-    "id": 0,
+    "id": 27,
     "question": "Beginning inventory:\t100 units &#64; $10\t\nPurchase:\t150 units &#64; $12\t\n1st Sales:\t\t180 units &#64; $40\nPurchase\t100 units &#64; $14\t\n2nd Sales:\t\t150 units &#64; $40\nUsing LIFO method, determine the cost of goods sold for the 2nd sales.",
     "answers": [
+      {
+        "text": "$1,900",
+        "isCorrect": true
+      },
       {
         "text": "$6,000",
         "isCorrect": false
@@ -660,10 +664,6 @@
       {
         "text": "$1,820",
         "isCorrect": false
-      },
-      {
-        "text": "$1,900",
-        "isCorrect": true
       },
       {
         "text": "$1,960",

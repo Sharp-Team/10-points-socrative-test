@@ -17,22 +17,28 @@ const writeFile = (path, data, fileName) => {
 
 // TODO: Push the true answer in the first array!
 // Get specific attributes
-const getSpecificAttributes = arr =>
-  arr.map(({ text, is_correct }) => {
+const handleAnswers = arr => {
+  let answer = arr.map(({ text, is_correct }) => {
     return {
       text,
       isCorrect: is_correct,
     }
   })
+  let trueAnswer = []
+  let falseAnswer = []
+  answer.forEach(data => {
+    data.isCorrect === true ? trueAnswer.push(data) : falseAnswer.push(data)
+  })
+  return trueAnswer.concat(falseAnswer)
+}
 
-const handleData = (id, question, answers, data) => {
+const handleData = (typeID, question, answers, data) => {
   let temp = {}
-  temp.id = id
+  temp.id = typeID
   temp.question = question
   // Just get specific attributes
-  temp.answers = getSpecificAttributes(answers)
+  temp.answers = handleAnswers(answers)
   data.push(temp)
-  id++
 }
 
 fs.readdirSync(pathQuestions).forEach(fileName => {
@@ -42,8 +48,10 @@ fs.readdirSync(pathQuestions).forEach(fileName => {
     // Check that question text contains number || contains "record" => debit/credit
     if (/\d/.test(question_text) || question_text.includes('record')) {
       handleData(debitCreditID, question_text, answers, debitCreditData)
+      debitCreditID++
     } else {
       handleData(theoryID, question_text, answers, theoryData)
+      theoryID++
     }
   })
 })

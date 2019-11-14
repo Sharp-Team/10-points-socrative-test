@@ -4,6 +4,10 @@
     "question": "Which statement is true?",
     "answers": [
       {
+        "text": "Accumulated depreciation is a contra-asset account with credit balance",
+        "isCorrect": true
+      },
+      {
         "text": "Depreciation expense is a contra-asset account with debit balance",
         "isCorrect": false
       },
@@ -14,15 +18,11 @@
       {
         "text": "Accumulated depreciation is a contra-asset account with debit balance",
         "isCorrect": false
-      },
-      {
-        "text": "Accumulated depreciation is a contra-asset account with credit balance",
-        "isCorrect": true
       }
     ]
   },
   {
-    "id": 0,
+    "id": 1,
     "question": "Closing entries at the end of an accounting period are not applied to:",
     "answers": [
       {
@@ -44,16 +44,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 2,
     "question": "Under terms FOB destination, who will pay transportation cost?",
     "answers": [
       {
-        "text": "Transportation company",
-        "isCorrect": false
-      },
-      {
         "text": "Seller",
         "isCorrect": true
+      },
+      {
+        "text": "Transportation company",
+        "isCorrect": false
       },
       {
         "text": "Buyer",
@@ -66,16 +66,16 @@
     ]
   },
   {
-    "id": 0,
+    "id": 3,
     "question": "Which statement is true about FIFO and LIFO method, knowing that prices of merchandise purchased increase over time?",
     "answers": [
       {
-        "text": "FIFO produces higher COGS and lower ending inventory than LIFO",
-        "isCorrect": false
-      },
-      {
         "text": "FIFO produces lower COGS and higher ending inventory than LIFO",
         "isCorrect": true
+      },
+      {
+        "text": "FIFO produces higher COGS and lower ending inventory than LIFO",
+        "isCorrect": false
       },
       {
         "text": "FIFO produces lower COGS and lower ending inventory than LIFO",
